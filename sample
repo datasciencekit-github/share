@@ -1,0 +1,11 @@
+#Import numpy, pandas, matplotlib and data
+
+Import numpy as np
+Import pandas as pd
+Import matplotlib.pyplot as plt
+From ggplot import ["data"]
+
+#Calculate the mean for a column
+
+["data"].["column" = ["data"]["name"]
+["data"].mean()
