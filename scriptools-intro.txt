@@ -1,0 +1,16 @@
+Scripting Tools
+
+Python:
+Download Python 3.5 (Anaconda 3.4.2.0 64-BIT):
+https://repo.continuum.io/archive/
+Run .exe file, easy folder eg python/anaconda3.4.2
+Do not set as default
+
+Use an IDE (eg Spyder), Jupyter Notebooks, or command prompt (eg Anaconda Prompt)
+Popular libraries: NumPy (sqrt / mean) , SciPy (linregress / , Matplotlib (plot / title), pandas (read_excel / shape)
+
+R:
+Download R from here:
+https://cran.ma.imperial.ac.uk/	
+Download RStudio from here (pick version for eg Windows / Mac):
+	https://www.rstudio.com/products/rstudio/download/
